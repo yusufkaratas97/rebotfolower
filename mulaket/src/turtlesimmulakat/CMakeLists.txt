@@ -27,7 +27,6 @@ ament_target_dependencies(turtles_create rclcpp)
 
 install(TARGETS
   teleop_turtle_key
-  turtles_create 
   DESTINATION lib/${PROJECT_NAME})
 
 
