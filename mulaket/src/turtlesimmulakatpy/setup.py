@@ -23,7 +23,6 @@ setup(
             'talker = turtlesimmulakatpy.publisher_member_function:main',
             'server = turtlesimmulakatpy.createturtlesim:main',
             'cleint = turtlesimmulakatpy.createturtlesimclient:main',
-            'turtlespawner = turtlesimmulakatpy.turtle:main'
             
         ],
     },
